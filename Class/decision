@@ -1,0 +1,14 @@
+used for working differnt bloacks based on differnt conditions
+block 1:
+stmts
+block2:
+stmt
+
+
+-looping stmts are used when we have to use that particular stmt recurrently
+1)while loop:
+a)intialization- (from where it need to start)
+while condition 
+loop body
+increment/decrement
+

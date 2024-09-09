@@ -1,0 +1,1 @@
+# Python program to determine whether the given number is a Harshad number
